@@ -5,7 +5,7 @@
 
 I'm a low level programming developer aiming for the best, i love practicing my skills and making projects as a hobby.
 
-Skills: PY/C/C++/JS/REACT
+Skills: PY/C/C++/JS/REACT/RUST
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Windows221e)](https://github.com/anuraghazra/github-readme-stats)
 
