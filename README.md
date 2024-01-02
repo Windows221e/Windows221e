@@ -1,11 +1,38 @@
 ### Hi there 👋
-#### @user
+## @user
 
-![](https://cdn.discordapp.com/banners/962069811574222908/cfd39d3d6f4e0c6797fcc1495ca52f07.webp?size=1024&width=0&height=256)
 
-I'm a low level programming developer aiming for the best, i love practicing my skills and making projects as a hobby.
+# I'm a low level programming developer aiming for the best, i love practicing my skills and making projects as a hobby.
 
-Skills: PY/C/C++/JS/REACT/RUST
+## my skills are 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cs,cpp,c,python,react,js,rust" />
+  </a>
+</p>
+
+  <h3>libs</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react" alt="Libraries" />
+  </p>
+</div>
+
+- learning web development with html and css since i kinda forgot
+- doing some rust projects
+
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?Windows221e=Windows221e&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Windows221e&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Windows221e)](https://github.com/anuraghazra/github-readme-stats)
 
