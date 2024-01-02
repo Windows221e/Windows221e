@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## @user
 
-
 # I'm a low level programming developer aiming for the best, i love practicing my skills and making projects as a hobby.
 
 ## my skills are 
@@ -20,9 +19,6 @@
 
 - learning web development with html and css since i kinda forgot
 - doing some rust projects
-
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?Windows221e=Windows221e&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Windows221e&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
